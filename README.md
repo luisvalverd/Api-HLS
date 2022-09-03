@@ -43,6 +43,7 @@ Start Server
   npm run start
 ```
 
-## Advertaing
-not modify the port
+## Warning 
+if modify port or host 
+you need change host and port of server-hls too
 
